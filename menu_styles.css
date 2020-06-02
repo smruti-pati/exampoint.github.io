@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+ul.menu {list-style:none; margin:0; padding:0}
+ul.menu * {margin:0; padding:0}
+ul.menu a {display:block; color:#fff; font:Arial;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:normal;
+line-height:16px;
+color:#ffffff; azimuth:left; text-decoration:none; text-align:left;}
+ul.menu li {
+position:relative;
+float:left;
+	
+}
+ul.menu ul {position:absolute;  left:0; background:#CCCCCC; display:none; opacity:0; list-style:none}
+ul.menu ul li {position:relative; border:1px solid #005c41; border-top:none; width:150px;  margin:0}
+ul.menu ul li a {display:block; padding:8px; background-color:#327e12}
+ul.menu ul li a:hover {background-color:#e67c00; color:#faff00;}
+ul.menu ul ul {left:150px; top:0px;}
+ul.menu .menulink {
+border:0px solid #aaa;  
+font-family: verdana;
+font-size:11px;
+text-align:center;
+color:#faff00;
+font-weight: ;
+text-decoration:none;
+font-weight:bold;
+line-height:30px;
+padding:5px 10px 5px 10px;
+border-right:#409918 1px solid;
+color:#fff; background:url("https://image.shutterstock.com/image-illustration/blue-background-260nw-171506252.jpg");  text-align:center;}
+ul.menu .menulink:hover, ul.menu .menuhover {background:#327e12; display:block; color:#faff00}
+ul.menu .topline {border-top:1px solid #}
