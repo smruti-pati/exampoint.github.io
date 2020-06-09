@@ -3,12 +3,11 @@ body {
 	FONT-SIZE: 13px; COLOR: #3a4249; line-height:25px; FONT-FAMILY: "Arial"; background-color:#D6ECFF; background-image:url("https://i.postimg.cc/9f937hGY/download.png"); background-repeat:repeat-x; margin:0px 0px 0px 0px;
 }
 .body_top {
-	background-image:url("https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy.gif"); background-repeat: repeat-x; height:125px; 
+	background-image:url("https://i.pinimg.com/originals/6d/35/16/6d3516fbaab75552f79c3d19facfbb34.jpg"); background-repeat: repeat-x; height:125px; 
 }
 .page_contents {
 	padding:8px;min-height: 545px; text-align: justify;
 }
-
 .fleft {float: left;}
 .fright {float: right;}
 .clear {clear: both;}
